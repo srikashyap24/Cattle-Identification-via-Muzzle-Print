@@ -1,4 +1,3 @@
-# Cattle-Identification-via-Muzzle-Print
 
 # Cattle Muzzle Print Recognition using a Hybrid CNN-Transformer Model
 
